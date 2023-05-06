@@ -12,6 +12,8 @@ public class Hello {
 	        System.out.println(w > 4 && w < 3);
 		if (20 > 18) {
 			System.out.println("20 greater than 18");
+	public static void main(String[] args) {
+		System.out.println("Hello world");
 		}
                 		
   }
