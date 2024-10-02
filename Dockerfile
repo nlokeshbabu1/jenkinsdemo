@@ -1,5 +1,5 @@
 #Base image
-FROM python:3.8
+FROM python:3.11
 
 #working dirtory in container
 WORKDIR /app
